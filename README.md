@@ -1,8 +1,32 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! I am **Dnyaneshwar Darade**, a full-stack developer with expertise in both frontend and backend technologies. This portfolio showcases my skills, projects, and achievements.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I specialize in building dynamic, responsive web applications using modern technologies. My skills include:
+
+- **Frontend**: React, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend**: Spring Boot, Node.js, Express.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, Jenkins
+
+## Projects
+
+- **Food Ordering System**: A complete system built with **React**, **Spring Boot**, and **Stripe** payment integration.
+- **Spotify Clone**: A music streaming app using **HTML**, **CSS**, and **JavaScript**.
+
+## Skills
+
+- **JavaScript** - 85%
+- **React** - 80%
+- **Spring Boot** - 75%
+- **Node.js** - 70%
+- **MySQL** - 80%
+
+## How to Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/dnyaneshwar910/MyPortFolio.git
