@@ -20,7 +20,7 @@ function Navbar() {
         },
         {
             id: 4,
-            text: "Experiance"
+            text: "Skills"
         },
         {
             id: 5,

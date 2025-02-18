@@ -58,7 +58,7 @@ function Contact() {
                         {errors.email && <span>This field is required</span>}
                     </div>
                     <div className='flex flex-col mb-4'>
-                        <label className='block text-gray-700' htmlFor="message">FullName</label>
+                        <label className='block text-gray-700' htmlFor="message">Message</label>
                         <textarea  {...register("message", { required: true })} className='shadow rounded-lg appearance-none border py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                             placeholder='Enter your Message'
                             name='message'
